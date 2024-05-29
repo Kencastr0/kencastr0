@@ -40,8 +40,3 @@
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kencastr0/kencastr0/output/snake.svg" alt="Snake animation" />
-
-###
