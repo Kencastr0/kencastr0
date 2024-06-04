@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Ken, a Junior Software Developer specializing in HTML5, CSS3, Tailwind CSS, JavaScript, and Astro. I develop impactful and effective websites for a variety of clients, working in teams and communicating effectively.<br><br>🚀 My goal is to create modern, high-performance web solutions. I also have experience in graphic design, branding, and UI, using tools like Figma, Adobe Illustrator, and Photoshop. I value leadership and collaboration to ensure a smooth and attractive user experience. Let's collaborate on your next web project to bring your vision to life!</p>
+<p align="left">👋 Hi! I'm Ken, a Junior Software Developer specializing in HTML5, CSS3, Tailwind CSS, JavaScript, and Astro. I develop impactful and effective websites for a variety of clients, working in teams and communicating effectively.<br><br>🚀 My goal is to create modern, high-performance web solutions. I also have experience in graphic design, branding, and UI, using tools like Figma. I value leadership and collaboration to ensure a smooth and attractive user experience. Let's collaborate on your next web project to bring your vision to life!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
@@ -23,24 +23,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
-
